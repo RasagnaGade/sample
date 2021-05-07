@@ -1,1 +1,15 @@
 welcome to github
+
+
+create repository in git hub
+copy code that is git hub link
+in local system clone the repository using (git clone pasteURL)
+then we get the git hubs folder in the local machine
+copy the folder which you want to push
+open this folder and open git bash here
+then
+git status(shows untracked files)
+git add .
+git status(shows tracked files)
+git commit -m "msg"
+git push (paste url)
